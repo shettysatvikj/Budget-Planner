@@ -55,19 +55,7 @@ const Navbar = () => {
 
         {/* RIGHT */}
         <div className="flex items-center gap-4 relative">
-          {/* <button
-            aria-label="search"
-            className="p-3 rounded-full border border-gray-200 bg-white/60 hover:shadow-sm"
-          >
-            <Search size={18} />
-          </button>
-
-          <button
-            aria-label="notifications"
-            className="p-3 rounded-full border border-gray-200 bg-white/60 hover:shadow-sm"
-          >
-            <Bell size={18} />
-          </button> */}
+       
 
           {/* USER BOX */}
           <div

@@ -1,25 +1,4 @@
-// import React from 'react'
-// import Sidebar from './Sidebar'
-// import Navbar from './Navbar'
-// import Navbar2 from './Navbar2'
-// import StatsCards from './StatsCards'
-// import Dashboard from './Dashboard'
 
-// const Landingpage = () => {
-//   return (
-//        <div className='flex' >
-//       <Sidebar/>
-//       <div className='w-full'>
-//       <Navbar/>
-   
-//       <StatsCards/>
-//       <Dashboard/>
-//     </div>
-//     </div>
-//   )
-// }
-
-// export default Landingpage
 import React from "react";
 import Sidebar from "./Sidebar";
 import Navbar from "./Navbar";
