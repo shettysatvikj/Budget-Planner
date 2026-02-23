@@ -80,7 +80,7 @@ export default function Help() {
               items: [
                 "📧 support@yourapp.com",
                 "📞 +91 98765 43210",
-                '💬 ChatGPT: "Fix my app issue"',
+               
               ],
             },
           ].map((card, index) => (
