@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-li{
+/* li{
   display: flex;
   align-items: center;
   gap: 6px;
@@ -20,4 +20,4 @@ li:active{
   background-color: #7e62e6;
   cursor: pointer;
   transform: scale(1.05);
-}
+} */

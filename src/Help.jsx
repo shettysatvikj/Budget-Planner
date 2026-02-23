@@ -80,7 +80,6 @@ export default function Help() {
               items: [
                 "📧 support@yourapp.com",
                 "📞 +91 98765 43210",
-               
               ],
             },
           ].map((card, index) => (
